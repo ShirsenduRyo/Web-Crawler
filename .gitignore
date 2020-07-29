@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Vs Code
+.vscode/
+
+.idea
+*.pyc
+
+*.json
+
+.DS_Store
